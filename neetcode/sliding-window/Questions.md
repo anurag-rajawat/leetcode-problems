@@ -1,0 +1,16 @@
+# Sliding Window Questions
+
+- [ ] `1` [Best Time to Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [ ] `2` [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
+- [ ] `3` [Number of Sub Arrays of Size K and Avg Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)
+- [ ] `4` [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [ ] `5` [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+- [ ] `6` [Permutation In String](https://leetcode.com/problems/permutation-in-string/)
+- [ ] `7` [Frequency of The Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
+- [ ] `8` [Fruits into Basket](https://leetcode.com/problems/fruit-into-baskets/)
+- [ ] `9` [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)
+- [ ] `10` [Minimum Number of Flips to Make The Binary String Alternating](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/)
+- [ ] `11` [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+- [ ] `12` [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)
+- [ ] `13` [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+- [ ] `14` [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
